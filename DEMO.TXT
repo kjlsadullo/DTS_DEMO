@@ -1,3 +1,5 @@
 total 1
 -rw-r--r-- 1 kent.j.l.sadullo 1049089  0 Jul  5 14:52 DEMO.TXT
 -rw-r--r-- 1 kent.j.l.sadullo 1049089 10 Jul  5 14:50 README.md
+
+This is a sample text file for an activity
